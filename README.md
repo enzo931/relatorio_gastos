@@ -1,4 +1,4 @@
-#Relatório de Gastos Mensais#
+## Relatório de Gastos Mensais ##
 Descrição:
 Este projeto permite que o usuário registre e visualize seus gastos mensais de maneira simples e interativa. O programa coleta informações sobre os gastos, como nome e valor, e gera gráficos para ajudar a visualizar a distribuição dos gastos. O usuário pode escolher entre três tipos de gráficos: Gráfico de Pizza, Gráfico de Barras e Gráfico de Setores. Além disso, o gráfico gerado pode ser salvo como uma imagem no formato PNG para futuras consultas.
 
