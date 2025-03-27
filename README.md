@@ -28,15 +28,9 @@ Clone o repositório:
 git clone https://github.com/seu-usuario/relatorio-gastos.git
 Instale as dependências:
 
-bash
-Copiar
-Editar
 pip install matplotlib
 Execute o script:
 
-bash
-Copiar
-Editar
 python relatorio_gastos.py
 Exemplos de Gráficos:
 Gráfico de Pizza: Exibe a proporção de cada categoria de gasto.
