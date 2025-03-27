@@ -32,7 +32,8 @@ pip install matplotlib
 Execute o script:
 
 python relatorio_gastos.py
-Exemplos de Gráficos:
+
+## Exemplos de Gráficos: ##
 Gráfico de Pizza: Exibe a proporção de cada categoria de gasto.
 
 Gráfico de Barras: Exibe os gastos por categoria de forma comparativa.
